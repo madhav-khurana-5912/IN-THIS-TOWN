@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+
+# Kokoro ONNX model and voice weights (338 MB total, exceeds GitHub 100MB limit)
+# Download using `python roblox-remotion/scripts/download_models.py`
+models/*.onnx
+models/*.bin
+roblox-remotion/models/*.onnx
+roblox-remotion/models/*.bin
+
+# Build artifacts & bundles
+out/bundle/
+roblox-remotion/out/bundle/
+scratch/
+
+# Large reference videos (>350 MB)
+reference.mp4
+references/
+roblox-remotion/references/
+
+# OS / Editor artifacts
+.DS_Store
+Thumbs.db
+*.swp
+*.log

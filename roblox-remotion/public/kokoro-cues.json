@@ -1,0 +1,919 @@
+{
+  "durationSeconds": 47.07,
+  "durationInFrames": 1413,
+  "beatTimings": {
+    "b1": {
+      "startSec": 0.15,
+      "endSec": 3.004,
+      "startFrame": 4,
+      "endFrame": 90,
+      "text": "In this town, say something angry, and it instantly comes true."
+    },
+    "b2": {
+      "startSec": 3.064,
+      "endSec": 5.512,
+      "startFrame": 92,
+      "endFrame": 165,
+      "text": "Then a kid who could not control his temper lost his mind."
+    },
+    "b3": {
+      "startSec": 5.572,
+      "endSec": 9.049,
+      "startFrame": 167,
+      "endFrame": 271,
+      "text": "My name is Theo, and my anger just signed my grandfather death certificate."
+    },
+    "b4": {
+      "startSec": 9.109,
+      "endSec": 12.929,
+      "startFrame": 273,
+      "endFrame": 388,
+      "text": "It started after school when bullies soaked my backpack in mud and laughed in my face."
+    },
+    "b5": {
+      "startSec": 13.009,
+      "endSec": 16.645,
+      "startFrame": 390,
+      "endFrame": 499,
+      "text": "I kicked open our front door, shaking with fury. The whole house went dead silent."
+    },
+    "b6": {
+      "startSec": 16.705,
+      "endSec": 20.29,
+      "startFrame": 501,
+      "endFrame": 609,
+      "text": "Grandpa stood by the stove, quietly stirring dinner in his heavy welder gloves."
+    },
+    "b7": {
+      "startSec": 20.35,
+      "endSec": 23.053,
+      "startFrame": 610,
+      "endFrame": 692,
+      "text": "He never takes them off. The fingertips are completely hollow."
+    },
+    "b8": {
+      "startSec": 23.113,
+      "endSec": 26.41,
+      "startFrame": 693,
+      "endFrame": 792,
+      "text": "Decades ago, someone angrily screamed at him to cut off his own hands."
+    },
+    "b9": {
+      "startSec": 26.49,
+      "endSec": 30.484,
+      "startFrame": 795,
+      "endFrame": 915,
+      "text": "Grandpa turned around, holding a burned pan. He had completely forgotten my birthday."
+    },
+    "b10": {
+      "startSec": 30.564,
+      "endSec": 33.214,
+      "startFrame": 917,
+      "endFrame": 996,
+      "text": "Something inside me snapped. I gripped my fists and screamed:"
+    },
+    "w1": {
+      "startSec": 33.334,
+      "endSec": 33.752,
+      "startFrame": 1000,
+      "endFrame": 1013,
+      "text": "I!"
+    },
+    "w2": {
+      "startSec": 33.832,
+      "endSec": 34.288,
+      "startFrame": 1015,
+      "endFrame": 1029,
+      "text": "WISH!"
+    },
+    "w3": {
+      "startSec": 34.368,
+      "endSec": 34.83,
+      "startFrame": 1031,
+      "endFrame": 1045,
+      "text": "YOU!"
+    },
+    "w4": {
+      "startSec": 34.91,
+      "endSec": 35.324,
+      "startFrame": 1047,
+      "endFrame": 1060,
+      "text": "WERE!"
+    },
+    "w5": {
+      "startSec": 35.404,
+      "endSec": 35.896,
+      "startFrame": 1062,
+      "endFrame": 1077,
+      "text": "GONE!"
+    },
+    "b11": {
+      "startSec": 36.056,
+      "endSec": 39.228,
+      "startFrame": 1082,
+      "endFrame": 1177,
+      "text": "Grandpa did not even scream. He simply dissolved into thin air."
+    },
+    "b12": {
+      "startSec": 39.308,
+      "endSec": 42.651,
+      "startFrame": 1179,
+      "endFrame": 1280,
+      "text": "His pan clattered against the floor, right in front of his empty rocking chair."
+    },
+    "b13": {
+      "startSec": 42.751,
+      "endSec": 46.418,
+      "startFrame": 1283,
+      "endFrame": 1393,
+      "text": "And on the mantelpiece, our framed photo faded to show he died thirty years ago."
+    }
+  },
+  "captions": [
+    {
+      "startFrame": 4,
+      "endFrame": 15,
+      "text": "In this"
+    },
+    {
+      "startFrame": 16,
+      "endFrame": 23,
+      "text": "town,"
+    },
+    {
+      "startFrame": 24,
+      "endFrame": 27,
+      "text": "say"
+    },
+    {
+      "startFrame": 28,
+      "endFrame": 42,
+      "text": "something"
+    },
+    {
+      "startFrame": 43,
+      "endFrame": 51,
+      "text": "angry,"
+    },
+    {
+      "startFrame": 52,
+      "endFrame": 56,
+      "text": "and"
+    },
+    {
+      "startFrame": 57,
+      "endFrame": 59,
+      "text": "it"
+    },
+    {
+      "startFrame": 60,
+      "endFrame": 73,
+      "text": "instantly"
+    },
+    {
+      "startFrame": 74,
+      "endFrame": 81,
+      "text": "comes"
+    },
+    {
+      "startFrame": 82,
+      "endFrame": 89,
+      "text": "true."
+    },
+    {
+      "startFrame": 92,
+      "endFrame": 97,
+      "text": "Then"
+    },
+    {
+      "startFrame": 98,
+      "endFrame": 105,
+      "text": "a kid"
+    },
+    {
+      "startFrame": 106,
+      "endFrame": 109,
+      "text": "who"
+    },
+    {
+      "startFrame": 110,
+      "endFrame": 117,
+      "text": "could"
+    },
+    {
+      "startFrame": 118,
+      "endFrame": 122,
+      "text": "not"
+    },
+    {
+      "startFrame": 123,
+      "endFrame": 132,
+      "text": "control"
+    },
+    {
+      "startFrame": 133,
+      "endFrame": 137,
+      "text": "his"
+    },
+    {
+      "startFrame": 138,
+      "endFrame": 146,
+      "text": "temper"
+    },
+    {
+      "startFrame": 147,
+      "endFrame": 152,
+      "text": "lost"
+    },
+    {
+      "startFrame": 153,
+      "endFrame": 157,
+      "text": "his"
+    },
+    {
+      "startFrame": 158,
+      "endFrame": 164,
+      "text": "mind."
+    },
+    {
+      "startFrame": 167,
+      "endFrame": 178,
+      "text": "My name"
+    },
+    {
+      "startFrame": 179,
+      "endFrame": 181,
+      "text": "is"
+    },
+    {
+      "startFrame": 182,
+      "endFrame": 189,
+      "text": "Theo,"
+    },
+    {
+      "startFrame": 190,
+      "endFrame": 194,
+      "text": "and"
+    },
+    {
+      "startFrame": 195,
+      "endFrame": 197,
+      "text": "my"
+    },
+    {
+      "startFrame": 198,
+      "endFrame": 205,
+      "text": "anger"
+    },
+    {
+      "startFrame": 206,
+      "endFrame": 212,
+      "text": "just"
+    },
+    {
+      "startFrame": 213,
+      "endFrame": 222,
+      "text": "signed"
+    },
+    {
+      "startFrame": 223,
+      "endFrame": 225,
+      "text": "my"
+    },
+    {
+      "startFrame": 226,
+      "endFrame": 243,
+      "text": "grandfather"
+    },
+    {
+      "startFrame": 244,
+      "endFrame": 251,
+      "text": "death"
+    },
+    {
+      "startFrame": 252,
+      "endFrame": 270,
+      "text": "certificate."
+    },
+    {
+      "startFrame": 273,
+      "endFrame": 275,
+      "text": "It"
+    },
+    {
+      "startFrame": 276,
+      "endFrame": 286,
+      "text": "started"
+    },
+    {
+      "startFrame": 287,
+      "endFrame": 294,
+      "text": "after"
+    },
+    {
+      "startFrame": 295,
+      "endFrame": 304,
+      "text": "school"
+    },
+    {
+      "startFrame": 305,
+      "endFrame": 310,
+      "text": "when"
+    },
+    {
+      "startFrame": 311,
+      "endFrame": 321,
+      "text": "bullies"
+    },
+    {
+      "startFrame": 322,
+      "endFrame": 330,
+      "text": "soaked"
+    },
+    {
+      "startFrame": 331,
+      "endFrame": 333,
+      "text": "my"
+    },
+    {
+      "startFrame": 334,
+      "endFrame": 346,
+      "text": "backpack"
+    },
+    {
+      "startFrame": 347,
+      "endFrame": 355,
+      "text": "in mud"
+    },
+    {
+      "startFrame": 356,
+      "endFrame": 360,
+      "text": "and"
+    },
+    {
+      "startFrame": 361,
+      "endFrame": 371,
+      "text": "laughed"
+    },
+    {
+      "startFrame": 372,
+      "endFrame": 379,
+      "text": "in my"
+    },
+    {
+      "startFrame": 380,
+      "endFrame": 387,
+      "text": "face."
+    },
+    {
+      "startFrame": 390,
+      "endFrame": 391,
+      "text": "I"
+    },
+    {
+      "startFrame": 392,
+      "endFrame": 400,
+      "text": "kicked"
+    },
+    {
+      "startFrame": 401,
+      "endFrame": 407,
+      "text": "open"
+    },
+    {
+      "startFrame": 408,
+      "endFrame": 412,
+      "text": "our"
+    },
+    {
+      "startFrame": 413,
+      "endFrame": 420,
+      "text": "front"
+    },
+    {
+      "startFrame": 421,
+      "endFrame": 428,
+      "text": "door,"
+    },
+    {
+      "startFrame": 429,
+      "endFrame": 439,
+      "text": "shaking"
+    },
+    {
+      "startFrame": 440,
+      "endFrame": 445,
+      "text": "with"
+    },
+    {
+      "startFrame": 446,
+      "endFrame": 453,
+      "text": "fury."
+    },
+    {
+      "startFrame": 454,
+      "endFrame": 458,
+      "text": "The"
+    },
+    {
+      "startFrame": 459,
+      "endFrame": 466,
+      "text": "whole"
+    },
+    {
+      "startFrame": 467,
+      "endFrame": 474,
+      "text": "house"
+    },
+    {
+      "startFrame": 475,
+      "endFrame": 481,
+      "text": "went"
+    },
+    {
+      "startFrame": 482,
+      "endFrame": 487,
+      "text": "dead"
+    },
+    {
+      "startFrame": 488,
+      "endFrame": 498,
+      "text": "silent."
+    },
+    {
+      "startFrame": 501,
+      "endFrame": 511,
+      "text": "Grandpa"
+    },
+    {
+      "startFrame": 512,
+      "endFrame": 519,
+      "text": "stood"
+    },
+    {
+      "startFrame": 520,
+      "endFrame": 528,
+      "text": "by the"
+    },
+    {
+      "startFrame": 529,
+      "endFrame": 538,
+      "text": "stove,"
+    },
+    {
+      "startFrame": 539,
+      "endFrame": 548,
+      "text": "quietly"
+    },
+    {
+      "startFrame": 549,
+      "endFrame": 561,
+      "text": "stirring"
+    },
+    {
+      "startFrame": 562,
+      "endFrame": 570,
+      "text": "dinner"
+    },
+    {
+      "startFrame": 571,
+      "endFrame": 580,
+      "text": "in his"
+    },
+    {
+      "startFrame": 581,
+      "endFrame": 587,
+      "text": "heavy"
+    },
+    {
+      "startFrame": 588,
+      "endFrame": 597,
+      "text": "welder"
+    },
+    {
+      "startFrame": 598,
+      "endFrame": 608,
+      "text": "gloves."
+    },
+    {
+      "startFrame": 610,
+      "endFrame": 613,
+      "text": "He"
+    },
+    {
+      "startFrame": 614,
+      "endFrame": 620,
+      "text": "never"
+    },
+    {
+      "startFrame": 621,
+      "endFrame": 628,
+      "text": "takes"
+    },
+    {
+      "startFrame": 629,
+      "endFrame": 634,
+      "text": "them"
+    },
+    {
+      "startFrame": 635,
+      "endFrame": 640,
+      "text": "off."
+    },
+    {
+      "startFrame": 641,
+      "endFrame": 645,
+      "text": "The"
+    },
+    {
+      "startFrame": 646,
+      "endFrame": 660,
+      "text": "fingertips"
+    },
+    {
+      "startFrame": 661,
+      "endFrame": 665,
+      "text": "are"
+    },
+    {
+      "startFrame": 666,
+      "endFrame": 680,
+      "text": "completely"
+    },
+    {
+      "startFrame": 681,
+      "endFrame": 691,
+      "text": "hollow."
+    },
+    {
+      "startFrame": 693,
+      "endFrame": 704,
+      "text": "Decades"
+    },
+    {
+      "startFrame": 705,
+      "endFrame": 711,
+      "text": "ago,"
+    },
+    {
+      "startFrame": 712,
+      "endFrame": 722,
+      "text": "someone"
+    },
+    {
+      "startFrame": 723,
+      "endFrame": 734,
+      "text": "angrily"
+    },
+    {
+      "startFrame": 735,
+      "endFrame": 747,
+      "text": "screamed"
+    },
+    {
+      "startFrame": 748,
+      "endFrame": 757,
+      "text": "at him"
+    },
+    {
+      "startFrame": 758,
+      "endFrame": 767,
+      "text": "to cut"
+    },
+    {
+      "startFrame": 768,
+      "endFrame": 772,
+      "text": "off"
+    },
+    {
+      "startFrame": 773,
+      "endFrame": 776,
+      "text": "his"
+    },
+    {
+      "startFrame": 777,
+      "endFrame": 781,
+      "text": "own"
+    },
+    {
+      "startFrame": 782,
+      "endFrame": 791,
+      "text": "hands."
+    },
+    {
+      "startFrame": 795,
+      "endFrame": 805,
+      "text": "Grandpa"
+    },
+    {
+      "startFrame": 806,
+      "endFrame": 815,
+      "text": "turned"
+    },
+    {
+      "startFrame": 816,
+      "endFrame": 826,
+      "text": "around,"
+    },
+    {
+      "startFrame": 827,
+      "endFrame": 837,
+      "text": "holding"
+    },
+    {
+      "startFrame": 838,
+      "endFrame": 839,
+      "text": "a"
+    },
+    {
+      "startFrame": 840,
+      "endFrame": 849,
+      "text": "burned"
+    },
+    {
+      "startFrame": 850,
+      "endFrame": 855,
+      "text": "pan."
+    },
+    {
+      "startFrame": 856,
+      "endFrame": 865,
+      "text": "He had"
+    },
+    {
+      "startFrame": 866,
+      "endFrame": 881,
+      "text": "completely"
+    },
+    {
+      "startFrame": 882,
+      "endFrame": 896,
+      "text": "forgotten"
+    },
+    {
+      "startFrame": 897,
+      "endFrame": 899,
+      "text": "my"
+    },
+    {
+      "startFrame": 900,
+      "endFrame": 914,
+      "text": "birthday."
+    },
+    {
+      "startFrame": 917,
+      "endFrame": 930,
+      "text": "Something"
+    },
+    {
+      "startFrame": 931,
+      "endFrame": 939,
+      "text": "inside"
+    },
+    {
+      "startFrame": 940,
+      "endFrame": 942,
+      "text": "me"
+    },
+    {
+      "startFrame": 943,
+      "endFrame": 954,
+      "text": "snapped."
+    },
+    {
+      "startFrame": 955,
+      "endFrame": 956,
+      "text": "I"
+    },
+    {
+      "startFrame": 957,
+      "endFrame": 966,
+      "text": "gripped"
+    },
+    {
+      "startFrame": 967,
+      "endFrame": 969,
+      "text": "my"
+    },
+    {
+      "startFrame": 970,
+      "endFrame": 977,
+      "text": "fists"
+    },
+    {
+      "startFrame": 978,
+      "endFrame": 982,
+      "text": "and"
+    },
+    {
+      "startFrame": 983,
+      "endFrame": 995,
+      "text": "screamed:"
+    },
+    {
+      "startFrame": 1000,
+      "endFrame": 1016,
+      "text": "I!"
+    },
+    {
+      "startFrame": 1015,
+      "endFrame": 1032,
+      "text": "WISH!"
+    },
+    {
+      "startFrame": 1031,
+      "endFrame": 1048,
+      "text": "YOU!"
+    },
+    {
+      "startFrame": 1047,
+      "endFrame": 1063,
+      "text": "WERE!"
+    },
+    {
+      "startFrame": 1062,
+      "endFrame": 1080,
+      "text": "GONE!"
+    },
+    {
+      "startFrame": 1082,
+      "endFrame": 1093,
+      "text": "Grandpa"
+    },
+    {
+      "startFrame": 1094,
+      "endFrame": 1099,
+      "text": "did"
+    },
+    {
+      "startFrame": 1100,
+      "endFrame": 1104,
+      "text": "not"
+    },
+    {
+      "startFrame": 1105,
+      "endFrame": 1111,
+      "text": "even"
+    },
+    {
+      "startFrame": 1112,
+      "endFrame": 1124,
+      "text": "scream."
+    },
+    {
+      "startFrame": 1125,
+      "endFrame": 1127,
+      "text": "He"
+    },
+    {
+      "startFrame": 1128,
+      "endFrame": 1138,
+      "text": "simply"
+    },
+    {
+      "startFrame": 1139,
+      "endFrame": 1154,
+      "text": "dissolved"
+    },
+    {
+      "startFrame": 1155,
+      "endFrame": 1161,
+      "text": "into"
+    },
+    {
+      "startFrame": 1162,
+      "endFrame": 1169,
+      "text": "thin"
+    },
+    {
+      "startFrame": 1170,
+      "endFrame": 1176,
+      "text": "air."
+    },
+    {
+      "startFrame": 1179,
+      "endFrame": 1183,
+      "text": "His"
+    },
+    {
+      "startFrame": 1184,
+      "endFrame": 1187,
+      "text": "pan"
+    },
+    {
+      "startFrame": 1188,
+      "endFrame": 1201,
+      "text": "clattered"
+    },
+    {
+      "startFrame": 1202,
+      "endFrame": 1211,
+      "text": "against"
+    },
+    {
+      "startFrame": 1212,
+      "endFrame": 1216,
+      "text": "the"
+    },
+    {
+      "startFrame": 1217,
+      "endFrame": 1225,
+      "text": "floor,"
+    },
+    {
+      "startFrame": 1226,
+      "endFrame": 1232,
+      "text": "right"
+    },
+    {
+      "startFrame": 1233,
+      "endFrame": 1235,
+      "text": "in"
+    },
+    {
+      "startFrame": 1236,
+      "endFrame": 1243,
+      "text": "front"
+    },
+    {
+      "startFrame": 1244,
+      "endFrame": 1252,
+      "text": "of his"
+    },
+    {
+      "startFrame": 1253,
+      "endFrame": 1259,
+      "text": "empty"
+    },
+    {
+      "startFrame": 1260,
+      "endFrame": 1270,
+      "text": "rocking"
+    },
+    {
+      "startFrame": 1271,
+      "endFrame": 1279,
+      "text": "chair."
+    },
+    {
+      "startFrame": 1283,
+      "endFrame": 1286,
+      "text": "And"
+    },
+    {
+      "startFrame": 1287,
+      "endFrame": 1296,
+      "text": "on the"
+    },
+    {
+      "startFrame": 1297,
+      "endFrame": 1315,
+      "text": "mantelpiece,"
+    },
+    {
+      "startFrame": 1316,
+      "endFrame": 1320,
+      "text": "our"
+    },
+    {
+      "startFrame": 1321,
+      "endFrame": 1329,
+      "text": "framed"
+    },
+    {
+      "startFrame": 1330,
+      "endFrame": 1337,
+      "text": "photo"
+    },
+    {
+      "startFrame": 1338,
+      "endFrame": 1345,
+      "text": "faded"
+    },
+    {
+      "startFrame": 1346,
+      "endFrame": 1356,
+      "text": "to show"
+    },
+    {
+      "startFrame": 1357,
+      "endFrame": 1368,
+      "text": "he died"
+    },
+    {
+      "startFrame": 1369,
+      "endFrame": 1377,
+      "text": "thirty"
+    },
+    {
+      "startFrame": 1378,
+      "endFrame": 1385,
+      "text": "years"
+    },
+    {
+      "startFrame": 1386,
+      "endFrame": 1392,
+      "text": "ago."
+    }
+  ]
+}

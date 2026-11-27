@@ -1,0 +1,11 @@
+{
+  "name": "roblox-engine",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Roblox Shorts 3D storytelling engine powered by Remotion, Three.js, and Kokoro TTS",
+  "scripts": {
+    "dev": "npm --prefix roblox-remotion run dev",
+    "short": "npm --prefix roblox-remotion run short",
+    "build": "npm --prefix roblox-remotion run build"
+  }
+}
